@@ -1,0 +1,112 @@
+run:
+demonetisation in india
+20
+Input set size 20
+
+ Link Clustering for tables summaries...
+cluster 1
+Sentence 1 : Viewpoint: Why Modi's currency gamble was 'epic failure'
+Sentence 2 : PM Modi's demonetisation brings GDP down to 6.1 per cent: Top economists stand vindicated
+cluster 2
+Sentence 1 : Effects Of Demonetisation On India's GDP - Difficult To Calculate, We Don't Even Know The Sign
+Sentence 2 : 1.5 Million Jobs Lost, GDP At A Low: The State Of The Indian Economy After Demonetisation
+Sentence 3 : Demonetisation - The long and short of it
+cluster 3
+Sentence 1 : One year of demonetisation: How much note ban has changed India
+cluster 4
+Sentence 1 : How demonetisation affected the Indian economy, in 10 charts
+Sentence 2 : Three countries in three continents: After Modi’s India, demonetisation is spreading around the world
+cluster 5
+Sentence 1 : Demonetization In India: A Boon Or A Bane For The Common Man
+cluster 6
+Sentence 1 : India’s history with demonetisation: From 1946 to 2016
+Sentence 2 : 2016 Indian banknote demonetisation
+cluster 7
+Sentence 1 : India’s demonetized currency finds its way back into the system — but can we still call it a success?
+cluster 8
+Sentence 1 : What are the impacts of Demonetisation on Indian Economy
+Sentence 2 : Positive and Negative effects of demonization of ₹500/1000 notes on Indian economy
+Sentence 3 : What will be the positive and negative effects of demonization of ₹500/1000 notes on Indian economy?
+cluster 9
+Sentence 1 : Demonetization
+Sentence 2 : Indian Currency Demonetization: Advantages and Disadvantages
+Sentence 3 : Demonetization Anniversary: Decoding the Effects of Indian Currency Notes Ban
+cluster 10
+Sentence 1 : Demonetisation: Nearly 99% of Scrapped Notes Came Back into System
+Sentence 2 : 99% of demonetised notes returned, says RBI report
+Cluster=1 Viewpoint: Why Modi's currency gamble was 'epic failure'
+
+Cluster=2 Effects Of Demonetisation On India's GDP - Difficult To Calculate, We Don't Even Know The Sign
+
+Cluster=3 Demonetization
+
+Cluster=4 Positive and Negative effects of demonization of ₹500/1000 notes on Indian economy
+
+Cluster=5 India’s demonetized currency finds its way back into the system — but can we still call it a success?
+
+Cluster=6 Indian Currency Demonetization: Advantages and Disadvantages
+
+Cluster=7 Demonetization Anniversary: Decoding the Effects of Indian Currency Notes Ban
+
+Cluster=8 Demonetisation - The long and short of it
+
+Cluster=9 2016 Indian banknote demonetisation
+
+Cluster=10 Three countries in three continents: After Modi’s India, demonetisation is spreading around the world
+
+Cluster=11 PM Modi's demonetisation brings GDP down to 6.1 per cent: Top economists stand vindicated
+
+Cluster=12 One year of demonetisation: How much note ban has changed India
+
+Cluster=13 Demonetization In India: A Boon Or A Bane For The Common Man
+
+Cluster=14 India’s history with demonetisation: From 1946 to 2016
+
+Cluster=15 What are the impacts of Demonetisation on Indian Economy
+
+Cluster=16 How demonetisation affected the Indian economy, in 10 charts
+
+Cluster=17 Demonetisation: Nearly 99% of Scrapped Notes Came Back into System
+
+Cluster=18 1.5 Million Jobs Lost, GDP At A Low: The State Of The Indian Economy After Demonetisation
+
+Cluster=19 What will be the positive and negative effects of demonization of ₹500/1000 notes on Indian economy?
+
+Cluster=20 99% of demonetised notes returned, says RBI report
+
+the size of allSentences : 20
+Input set size 20
+
+ Link Clustering for tables summaries...
+cluster 1
+Sentence 1 : PM Modi's demonetisation brings GDP down to 6.1 per cent: Top economists stand vindicated
+Sentence 2 : Viewpoint: Why Modi's currency gamble was 'epic failure'
+cluster 2
+Sentence 1 : Demonetisation: Nearly 99% of Scrapped Notes Came Back into System
+Sentence 2 : 99% of demonetised notes returned, says RBI report
+cluster 3
+Sentence 1 : One year of demonetisation: How much note ban has changed India
+cluster 4
+Sentence 1 : India’s demonetized currency finds its way back into the system — but can we still call it a success?
+cluster 5
+Sentence 1 : 2016 Indian banknote demonetisation
+Sentence 2 : India’s history with demonetisation: From 1946 to 2016
+cluster 6
+Sentence 1 : Demonetization In India: A Boon Or A Bane For The Common Man
+cluster 7
+Sentence 1 : Effects Of Demonetisation On India's GDP - Difficult To Calculate, We Don't Even Know The Sign
+Sentence 2 : 1.5 Million Jobs Lost, GDP At A Low: The State Of The Indian Economy After Demonetisation
+Sentence 3 : Demonetisation - The long and short of it
+cluster 8
+Sentence 1 : What will be the positive and negative effects of demonization of ₹500/1000 notes on Indian economy?
+Sentence 2 : Positive and Negative effects of demonization of ₹500/1000 notes on Indian economy
+Sentence 3 : What are the impacts of Demonetisation on Indian Economy
+cluster 9
+Sentence 1 : Demonetization
+Sentence 2 : Demonetization Anniversary: Decoding the Effects of Indian Currency Notes Ban
+Sentence 3 : Indian Currency Demonetization: Advantages and Disadvantages
+cluster 10
+Sentence 1 : How demonetisation affected the Indian economy, in 10 charts
+Sentence 2 : Three countries in three continents: After Modi’s India, demonetisation is spreading around the world
+xxxxxxxxxxxxxx done xxxxxxxxxxxxxxxxx
+BUILD SUCCESSFUL (total time: 1 second)
